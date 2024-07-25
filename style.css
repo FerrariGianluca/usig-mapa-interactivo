@@ -1,0 +1,13 @@
+#mapa-id {
+    width: 100%;
+    height: 500px;
+}
+#direcciones { 
+    margin-top: 20px; 
+}
+.direccion-item { 
+    margin-bottom: 10px; 
+}
+.direccion-item button { 
+    margin-left: 10px; 
+}
